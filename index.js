@@ -1,0 +1,9 @@
+.gitignore
+LICENSE
+README.md
+package.json
+.env.example
+database.js
+paystack.js
+bot.js
+index.js  
